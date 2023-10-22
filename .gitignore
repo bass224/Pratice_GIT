@@ -1,0 +1,11 @@
+.bloop/
+.bsp/
+.idea/
+.ipynb_checkpoints/
+.metals/
+.scala-build/
+.vscode/
+data/output/
+spark-warehouse/
+target/
+metals.sbt
